@@ -2,7 +2,7 @@
 
 C. Gao (Data-Gao) | Based in Germany
 
-## Domain Knowledge
+## Domain
 
 Automotive, Investment & Controlling, Property Investment & Management, Data Science, Machine Learning
 
