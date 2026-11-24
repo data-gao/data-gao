@@ -8,4 +8,4 @@ Automotive, Investment & Controlling, Property Investment & Management, Data Sci
 
 ## Tech Stack
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQL, Airflow, n8n, Make, Docker, MongoDB, Git, Jupyter Notebook, WordPress, Power BI, DAX, Power Query, Google Workspace, Google Cloud, Google Antigravity, Draw.io, Jira, PTC Integrity, IBM Jazz
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SQL, Airflow, n8n, Make, Docker, MongoDB, Git, GitHub, Forgero, Jupyter Notebook, WordPress, Power BI, DAX, Power Query, Google Workspace, Google Antigravity, Google Cloud, Alibaba Cloud, Tencent Cloud, Draw.io, Jira, PTC Integrity, IBM Jazz
